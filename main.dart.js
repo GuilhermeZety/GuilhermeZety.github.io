@@ -75259,7 +75259,7 @@ this.aL()},
 gadU(){$.uU().a4(0,new A.ak5(this))
 var s=this.d
 return new A.jI(s,A.o(s).h("jI<1>"))},
-aB(){this.d.C(0,3200)
+aB(){this.d.C(0,0)
 this.aT()},
 grW(){return A.a([B.MO,B.MP,B.MT,new A.bp(new A.ax(0,100,0,0),B.MQ,null),new A.bp(new A.ax(0,100,0,0),B.MN,null),B.MS,B.MG],t.p)},
 J(a){var s=null,r=A.my(A.iS(new A.bp(new A.ax(0,0,0,24),new A.bp(new A.ax(0,0,24,0),A.avr(B.IG,A.iw("assets/whatsapp.svg",B.b7,40,40),!1,new A.ak2()),s),s),new A.ak3()),0.1,A.bh(2e6,0,0),s,0)
@@ -86904,7 +86904,7 @@ r($,"aMy","apX",()=>A.axZ("initializeDateFormatting(<locale>)",$.aE0(),t.fs))
 r($,"aOJ","a16",()=>A.axZ("initializeDateFormatting(<locale>)",B.ZX,t.GU))
 s($,"aUV","aDX",()=>48)
 s($,"aUd","aDs",()=>A.at9(10))
-r($,"aV6","uU",()=>A.adc(3200,null,null))
+r($,"aV6","uU",()=>A.adc(0,null,null))
 r($,"aUU","fz",()=>{A.aOH()
 return new A.a1D()})
 s($,"aSz","aCh",()=>new A.MX("newline expected"))
