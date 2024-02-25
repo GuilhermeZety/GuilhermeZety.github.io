@@ -26,14 +26,18 @@ const RESOURCES = {"assets/AssetManifest.bin": "0b0a3415aad49b6e9bf965ff578614f9
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "42e7e54d1f51b60893d2290d01982053",
-"/": "42e7e54d1f51b60893d2290d01982053",
+"index.html": "f237f615a9d0d583f3e99ff4db0c1855",
+"/": "f237f615a9d0d583f3e99ff4db0c1855",
 "main.dart.js": "45dd08b06fe86cf0fd12f461bc6f9f44",
+"main.dart.mjs": "b90fad5527d416c418c8fa4ac05d692d",
+"main.dart.wasm": "d197e4c52b1b10ee0eb246829fc5b765",
 "manifest.json": "2e2a5f8e08c103275f4a02f3b5f7ec6a",
 "version.json": "73e511f19bbc02da866f13392eceb9a6"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
+"main.dart.wasm",
+"main.dart.mjs",
 "index.html",
 "assets/AssetManifest.bin.json",
 "assets/FontManifest.json"];
