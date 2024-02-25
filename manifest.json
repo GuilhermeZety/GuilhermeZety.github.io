@@ -1,11 +1,11 @@
 {
-    "name": "codewave_systems",
-    "short_name": "codewave_systems",
+    "name": "teste_wa",
+    "short_name": "teste_wa",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A sua empresa de desenvolvimento de softwares.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
