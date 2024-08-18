@@ -74220,7 +74220,7 @@ ai(){return new A.S4()}}
 A.S4.prototype={
 aK(){this.b0()},
 S(a){var s
-$.auz().a=A.a(["translations"],t.s)
+$.auz().a=A.a(["assets/translations"],t.s)
 s=$.Ey().a.gl()===B.dH?A.avh():A.avi()
 return new A.Al(new A.aih(),s,null)}}
 A.aih.prototype={
