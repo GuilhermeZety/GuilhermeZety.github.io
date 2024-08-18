@@ -751,9 +751,9 @@ _1926: x0 => x0.sheet,
 _1928: x0 => x0.offsetX,
 _1929: x0 => x0.offsetY,
 _1930: x0 => x0.button,
-_3809: () => globalThis.window,
-_4136: x0 => x0.localStorage,
-_4481: x0 => x0.length
+_3804: () => globalThis.window,
+_4131: x0 => x0.localStorage,
+_4476: x0 => x0.length
     };
 
     const baseImports = {
